@@ -1,0 +1,390 @@
+#custom_label label {
+    padding-right: 2px;
+    padding-top: 5px;
+    margin-bottom: 0px;
+}
+
+#custom_label svg {
+    margin-bottom: 5px;
+}
+
+#tables_config label {
+    padding-right: 2px;
+    padding-top: 5px;
+    margin-bottom: 0px;
+}
+
+#tables_config svg {
+    margin-bottom: 5px;
+}
+
+#tables_config .table-action svg {
+    margin-bottom: 0px;
+}
+
+#custom-label-key {
+    margin-right: 5px;
+    /* width: 20%; */
+    /* display: inline-block; */
+    /* vertical-align: top; */
+    text-align: left;
+}
+
+#custom-label-value {
+    margin-right: 15px;
+    /* display: inline-block; */
+    text-align: left;
+}
+
+#custom-channel-div {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: left;
+    margin-top: 10px;
+}
+
+#custom-channel-w-10 {
+    width: 10%;
+}
+
+#custom-channel-w-15 {
+    width: 15%;
+}
+
+#custom-channel-w-20 {
+    width: 20%;
+}
+
+#custom-channel-w-25 {
+    width: 25%;
+}
+
+#custom-channel-w-30 {
+    width: 30%;
+}
+
+#custom-channel-w-40 {
+    width: 40%;
+}
+
+#custom-channel-w-50 {
+    width: 50%;
+}
+
+#channel-label-l-w65 {
+    width:65px;
+    text-align: right;
+}
+
+#channel-label-l-w80 {
+    width:80px;
+    text-align: right;
+}
+
+#channel-label-l-w100 {
+    width:100px;
+    text-align: right;
+}
+
+#channel-label-l-w120 {
+    width:120px;
+    text-align: right;
+}
+
+#channel-label-l-w160 {
+    width:160px;
+    text-align: right;
+}
+
+#channel-label-l-w180 {
+    width:180px;
+    text-align: right;
+}
+
+.el-card {
+    color: #6c757d;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+span {
+    font-size: 15px;
+}
+
+.mb-20 {
+    margin-bottom: 20px !important;
+}
+
+.el-tabs__item {
+    width: 180px;
+}
+
+.card-button {
+    width: 51px;
+    height: 71px;
+    transform: scale(0.6);
+    border-style: none;
+    margin-left: -10px;
+    margin-right: 2px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+
+.cell {
+    font-size: 1.1em;
+    /* color: rgb(71, 71, 71); */
+}
+
+h1 {
+    font-size: 1.7em;
+}
+
+h5 {
+    font-size: 1.1em;
+}
+
+.table-td {
+    width: 80px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}    
+
+/* 黑桃 A-K */
+.card-101 {
+    background: url("../img/cards/101.png") no-repeat;
+}
+
+.card-102 {
+    background: url("../img/cards/102.png") no-repeat;
+}
+
+.card-103 {
+    background: url("../img/cards/103.png") no-repeat;
+}
+
+.card-104 {
+    background: url("../img/cards/104.png") no-repeat;
+}
+
+.card-105 {
+    background: url("../img/cards/105.png") no-repeat;
+}
+
+.card-106 {
+    background: url("../img/cards/106.png") no-repeat;
+}
+
+.card-107 {
+    background: url("../img/cards/107.png") no-repeat;
+}
+
+.card-108 {
+    background: url("../img/cards/108.png") no-repeat;
+}
+
+.card-109 {
+    background: url("../img/cards/109.png") no-repeat;
+}
+
+.card-110 {
+    background: url("../img/cards/110.png") no-repeat;
+}
+
+.card-111 {
+    background: url("../img/cards/111.png") no-repeat;
+}
+
+.card-112 {
+    background: url("../img/cards/112.png") no-repeat;
+}
+
+.card-113 {
+    background: url("../img/cards/113.png") no-repeat;
+}
+
+/* 红桃 A-K */
+.card-201 {
+    background: url("../img/cards/201.png") no-repeat;
+}
+
+.card-202 {
+    background: url("../img/cards/202.png") no-repeat;
+}
+
+.card-203 {
+    background: url("../img/cards/203.png") no-repeat;
+}
+
+.card-204 {
+    background: url("../img/cards/204.png") no-repeat;
+}
+
+.card-205 {
+    background: url("../img/cards/205.png") no-repeat;
+}
+
+.card-206 {
+    background: url("../img/cards/206.png") no-repeat;
+}
+
+.card-207 {
+    background: url("../img/cards/207.png") no-repeat;
+}
+
+.card-208 {
+    background: url("../img/cards/208.png") no-repeat;
+}
+
+.card-209 {
+    background: url("../img/cards/209.png") no-repeat;
+}
+
+.card-210 {
+    background: url("../img/cards/210.png") no-repeat;
+}
+
+.card-211 {
+    background: url("../img/cards/211.png") no-repeat;
+}
+
+.card-212 {
+    background: url("../img/cards/212.png") no-repeat;
+}
+
+.card-213 {
+    background: url("../img/cards/213.png") no-repeat;
+}
+
+/* 梅花 A-K */
+.card-301 {
+    background: url("../img/cards/301.png") no-repeat;
+}
+
+.card-302 {
+    background: url("../img/cards/302.png") no-repeat;
+}
+
+.card-303 {
+    background: url("../img/cards/303.png") no-repeat;
+}
+
+.card-304 {
+    background: url("../img/cards/304.png") no-repeat;
+}
+
+.card-305 {
+    background: url("../img/cards/305.png") no-repeat;
+}
+
+.card-306 {
+    background: url("../img/cards/306.png") no-repeat;
+}
+
+.card-307 {
+    background: url("../img/cards/307.png") no-repeat;
+}
+
+.card-308 {
+    background: url("../img/cards/308.png") no-repeat;
+}
+
+.card-309 {
+    background: url("../img/cards/309.png") no-repeat;
+}
+
+.card-310 {
+    background: url("../img/cards/310.png") no-repeat;
+}
+
+.card-311 {
+    background: url("../img/cards/311.png") no-repeat;
+}
+
+.card-312 {
+    background: url("../img/cards/312.png") no-repeat;
+}
+
+.card-313 {
+    background: url("../img/cards/313.png") no-repeat;
+}
+
+/* 方块 A-K */
+.card-401 {
+    background: url("../img/cards/401.png") no-repeat;
+}
+
+.card-402 {
+    background: url("../img/cards/402.png") no-repeat;
+}
+
+.card-403 {
+    background: url("../img/cards/403.png") no-repeat;
+}
+
+.card-404 {
+    background: url("../img/cards/404.png") no-repeat;
+}
+
+.card-405 {
+    background: url("../img/cards/405.png") no-repeat;
+}
+
+.card-406 {
+    background: url("../img/cards/406.png") no-repeat;
+}
+
+.card-407 {
+    background: url("../img/cards/407.png") no-repeat;
+}
+
+.card-408 {
+    background: url("../img/cards/408.png") no-repeat;
+}
+
+.card-409 {
+    background: url("../img/cards/409.png") no-repeat;
+}
+
+.card-410 {
+    background: url("../img/cards/410.png") no-repeat;
+}
+
+.card-411 {
+    background: url("../img/cards/411.png") no-repeat;
+}
+
+.card-412 {
+    background: url("../img/cards/412.png") no-repeat;
+}
+
+.card-413 {
+    background: url("../img/cards/413.png") no-repeat;
+}
+
+/* 大小王 */
+.card-51 {
+    background: url("../img/cards/51.png") no-repeat;
+}
+
+.card-52 {
+    background: url("../img/cards/52.png") no-repeat;
+}
+
+.main {
+    display: flex;
+    transition: margin-left .35s ease-in-out, left .35s ease-in-out, margin-right .35s ease-in-out, right .35s ease-in-out;
+    background: #f7f7fc;
+    flex-direction: column;
+    overflow: hidden;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #000
+}

@@ -1,0 +1,10 @@
+{
+	"extends": "eslint-config-egg",
+	"rules": {
+		"no-tabs":"off",
+		"indent": ["off", 2],
+		"prefer-const": "off",
+		"no-extend-native": ["error", { "exceptions": ["Date"] }]
+	}
+	
+}
